@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/toxicselixir" target="blank"><img src="https://img.shields.io/twitter/follow/toxicselixir?logo=twitter&style=for-the-badge" alt="toxicselixir" /></a> </p>
 
-- 👩‍❤️‍👨 Relationship Status: **Engaged to Toxic Dev**
+- 👩‍❤️‍👨 Relationship Status: [Engaged to Toxic Dev](https://toxicdev.me/)
 
-- 📧 Reach Me **Discord: Elixir#2222 Email: toxicselixir@gmail.com**
+- 🧬 Pronouns: **She/Her**
 
-- 🕵🏾‍♀️ I’m Interested In: **Cats, Coding, Photography, and Music**
+- 🌱 Currently Learning: **Ruby**
+ 
+- 🕵🏾‍♀️ Interested In: **Cats,Coding,Photography,& Music**
 
-- 🌱 I’m Currently Learning: **Ruby**
+- 🎛️ Currently Working As: **Moderator @ Infinity Bot List & DscJobs**
+
+- 📧 Reach Me: **Discord: Elixir#2222**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
