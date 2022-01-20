@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/toxicselixir" target="blank"><img src="https://img.shields.io/twitter/follow/toxicselixir?logo=twitter&style=for-the-badge" alt="toxicselixir" /></a> </p>
 
-👩‍❤️‍👨**Relationship Status:**
+💕**Relationship Status:**
 * [Engaged to Toxic Dev](https://toxicdev.me/)
 
 
 🧬**Pronouns:**
 * She/Her
 
-🌱**Currently Learning*:*
+🌱**Currently Learning:**
 * Ruby <a href="https://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png?1450319445"></a>
 
 🕵🏾‍♀️**Interested In:**
