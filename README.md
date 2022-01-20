@@ -29,7 +29,7 @@
  * Music
 
 📧 **Reach Me On:**
- * Discord: Elixir #2222
+ * Discord: Toxics Elixir #2222
 
 
 <h3 align="left">Connect with me:</h3>
