@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Toxic's Elixir</h1>
 
-<h3 align="center">I am a entry level developer breaking into the Tech industry!</h3>
+<h3 align="center"> My friends call me Elixir, or Bree <br> I am a entry level developer breaking into the Tech industry!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicselixir&label=Profile%20views&color=0e75b6&style=flat" alt="toxicselixir" /> </p>
 
