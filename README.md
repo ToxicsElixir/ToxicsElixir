@@ -13,7 +13,7 @@
 
 
 🧬**Pronouns:**
-* She/Her
+* She/Her ♀️
 
 🌱**Currently Learning:**
 * Ruby <a href="https://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png?1450319445"></a>
