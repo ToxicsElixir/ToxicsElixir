@@ -1,8 +1,8 @@
 <img align="center" width="1000" src="https://imgur.com/71tf249.jpg">
 
-<h1 align="center">Hello, I'm Toxic's Elixir</h1>
+<h1 align="center">Hello, I'm Toxic's Elixir</h1> <br> 
 
-<h3 align="center"> My friends call me Elixir, or Bree <br> I am a entry level developer breaking into the Tech industry!</h3>
+<h3 align="center">I am a entry level developer breaking into the Tech industry!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicselixir&label=Profile%20views&color=0e75b6&style=flat" alt="toxicselixir" /> </p>
 
@@ -30,9 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxicselixir" height="30" width="40" /></a>
-<a href="https://instagram.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxicselixir" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/896951964234043413" target="Discord: Elixir"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elixir#2222" height="30" width="40" /></a>
+<a href="https://twitter.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxicselixir" height="30" width="40" /></a> <a href="https://instagram.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxicselixir" height="30" width="40" /></a> <a href="https://discordapp.com/users/896951964234043413" target="Discord: Elixir"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elixir#2222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
