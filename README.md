@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://twitter.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxicselixir" height="30" width="40" /></a>
 <a href="https://instagram.com/toxicselixir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxicselixir" height="30" width="40" /></a>
-<a href="https://discord.com/channels/933504048156508190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elixir#2222" height="30" width="40" /></a>
+<a href="Elixir#2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elixir#2222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
