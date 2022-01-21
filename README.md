@@ -23,7 +23,7 @@
 * Ruby <a href="https://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png?1450319445"></a>
 
 🕵🏾‍♀️ **Interested In:**
- * Cats 
+ * Cats ᓚᘏᗢ
  * Coding
  * Photography
  * Music
