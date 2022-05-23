@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://imgur.com/71tf249.jpg">
+<img align="center" width="1000" src="https://i.imgur.com/Jdvhkz3.jpeg">
 
 <h1 align="center">Hello, I'm Toxic's Elixir</h1> <br> 
 
