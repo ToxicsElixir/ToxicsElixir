@@ -47,3 +47,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toxicselixir&show_icons=true&locale=en&layout=compact" alt="toxicselixir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxicselixir&show_icons=true&locale=en" alt="toxicselixir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toxicselixir&" alt="toxicselixir" /></p>
