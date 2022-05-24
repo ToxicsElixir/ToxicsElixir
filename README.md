@@ -13,7 +13,7 @@
 
 💻 **Co-Owner Of:**
 * [Infinity Bot List](https://infinitybots.gg/)
-* [Discord Jobs}(https://dscjobs.org/)
+* [Discord Jobs](https://dscjobs.org/)
 
 🧬 **Pronouns:**
 * She/Her ♀️
@@ -22,7 +22,7 @@
 
 🎉 **Projects:**
 *  [Kitty Patrol](https://infinitybots.gg/bots/937418418183864380) 
-*  [Legitimate Protection] (https://infinitybots.gg/bots/940652496018350140)
+*  [Legitimate Protection](https://infinitybots.gg/bots/940652496018350140)
    
 
 🌱 **Currently Learning:**
