@@ -4,7 +4,7 @@
 
 <h3 align="center">I am a entry level developer breaking into the Tech industry!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicselixir&label=Profile%20views&color=0e75b6&style=flat" alt="toxicselixir" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=toxicselixir&label=Profile%20views&color=0e75b6&style=flat" alt="toxicselixir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/toxicselixir" target="blank"><img src="https://img.shields.io/twitter/follow/toxicselixir?logo=twitter&style=for-the-badge" alt="toxicselixir" /></a> </p>
 
