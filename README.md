@@ -13,19 +13,21 @@
 
 💻 **Co-Owner Of:**
 * [Infinity Bot List](https://infinitybots.gg/)
+* [Discord Jobs}(https://dscjobs.org/)
 
 🧬 **Pronouns:**
 * She/Her ♀️
 
-<img align="right" src="https://imgur.com/Iiu0Zy4.gif">
+<img align="right" src="https://imgur.com/Iiu0Zy4.gif" alt = "Typing kitty cat">
 
 🎉 **Projects:**
 *  [Kitty Patrol](https://infinitybots.gg/bots/937418418183864380) 
+*  [Legitimate Protection] (https://infinitybots.gg/bots/940652496018350140)
    
 
 🌱 **Currently Learning:**
 * Python
-* Ruby
+
 
 🕵🏾‍♀️ **Interested In:**
  * Cats ᓚᘏᗢ
